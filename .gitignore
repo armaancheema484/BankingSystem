@@ -1,0 +1,15 @@
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore Maven build artifacts
+target/
+*/target/
+
+# Ignore logs
+*.log
+
+# Ignore other files
+.DS_Store
